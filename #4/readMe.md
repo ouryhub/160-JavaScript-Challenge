@@ -10,4 +10,4 @@ buy the good software? #cheapskates"
 14
 Vos collaborateurs vous demandent une solution pour supprimer tous les nombres. Votre programme 
 prendra en entrée une chaîne, devra nettoyer tous les caractères numériques, et renverra une chaîne avec 
-les espacements, caractères et caractères spéciaux ~#$%^&!@*():; "'., tous intacts  .
+les espacements, caractères et caractères spéciaux ~#$%^&!@*():; "'., tous intacts  .n
